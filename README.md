@@ -3,4 +3,4 @@ Collection of my wallpapers, I get these from various sources as well as other p
 
 # installation?
 
-``mkdir walls && git clone https://github.com/Darmanitan/walls``
+``git clone https://github.com/Darmanitan/walls``
